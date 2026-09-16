@@ -1,0 +1,10 @@
+# Normalisasi line ending
+* text=auto
+
+# File Minecraft binary jangan di otak-atik
+*.mca binary
+*.dat binary
+*.dat_old.gz binary
+*.nbt binary
+*.snbt text
+*.png binary

@@ -1,0 +1,17 @@
+{
+	id: "b957b506-74ba-3286-88e1-c9a6c9e1774b"
+	type: "player"
+	player_name: "ZxWyvern"
+	ranks: {
+		b957b506-74ba-3286-88e1-c9a6c9e1774b: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "ZxWyvern"
+		"ftbteams:description": ""
+		"ftbteams:color": "#5DFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

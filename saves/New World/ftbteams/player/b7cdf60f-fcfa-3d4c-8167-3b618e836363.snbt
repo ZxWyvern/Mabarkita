@@ -1,0 +1,17 @@
+{
+	id: "b7cdf60f-fcfa-3d4c-8167-3b618e836363"
+	type: "player"
+	player_name: "endricxo"
+	ranks: {
+		b7cdf60f-fcfa-3d4c-8167-3b618e836363: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "endricxo"
+		"ftbteams:description": ""
+		"ftbteams:color": "#595CFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

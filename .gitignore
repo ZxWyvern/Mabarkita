@@ -1,0 +1,22 @@
+# Ignore semuanya di folder liminal
+/*
+
+# Kecuali file-file penting ini
+!.gitignore
+!.gitattributes
+!README.md
+!sync-*.bat
+
+# Kecuali folder saves
+!/saves
+
+# Ignore semua isi saves kecuali "New World"
+/saves/*
+!/saves/New World
+
+# Track semua isi di dalam New World
+!/saves/New World/**
+
+# Tapi jangan track file lock (selalu berubah saat main, bikin conflict)
+saves/New World/session.lock
+**/session.lock
