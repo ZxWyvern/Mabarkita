@@ -1,0 +1,21 @@
+{
+	version: 1
+	uuid: "adb8dc6166263e708ccde282ae5a0075"
+	name: "NTHCorner107#adb8dc61"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		50A94EEA437E23DE: 1
+	}
+	started: {
+		7E0E4762C458A275: 1789569611355L
+		45A3201920266E62: 1789569611355L
+		0000000000000001: 1789569611355L
+		50A94EEA437E23DE: 1789569611355L
+	}
+	completed: {
+		50A94EEA437E23DE: 1789569611355L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
